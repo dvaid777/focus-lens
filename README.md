@@ -6,7 +6,7 @@ FocusLens — Know your focus. Own your day.
 
 FocusLens is a privacy-first, browser-based dashboard that helps you track your screen time across Study, Social Media, and Entertainment. It turns your daily activities into a single **Focus Score (0–100)** and provides actionable insights to help you build better habits.
 
-![FocusLens Dashboard Preview](https://via.placeholder.com/800x450?text=FocusLens+Dashboard+Preview)
+
 
 ---
 
