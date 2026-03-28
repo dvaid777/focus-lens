@@ -1,4 +1,4 @@
-# focus-lens
+# Focus-lens
 FocusLens — Know your focus. Own your day.
 # 🔍 FocusLens — Screen Activity Dashboard
 
